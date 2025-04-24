@@ -12,7 +12,7 @@ TypeScriptで書かれたAWS Lambda関数のテンプレートプロジェクト
 
 ## 前提条件
 
-- Node.js (v18以上推奨)
+- Node.js (v22以上推奨)
 - AWSアカウント
 - AWS CLI (設定済み)
 - GitHub Actions（自動デプロイを使用する場合）
